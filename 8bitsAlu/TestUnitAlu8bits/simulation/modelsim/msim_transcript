@@ -1,0 +1,32 @@
+# Reading C:/altera/14.1/modelsim_ase/tcl/vsim/pref.tcl
+# do TestUnitAlu8bits_run_msim_rtl_vhdl.do
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Model Technology ModelSim PE vmap 10.3c Lib Mapping Utility 2014.09 Sep 20 2014
+# vmap -modelsim_quiet work rtl_work 
+# Copying C:/altera/14.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:/altera/14.1/modelsim_ase/win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vcom -93 -work work {C:/Users/PC de David/Documents/Laboratorios/Lógica/Vhdl/TestUnitAlu8bits/AND5_1.vhd}
+# Model Technology ModelSim ALTERA vcom 10.3c Compiler 2014.09 Sep 20 2014
+# Start time: 18:21:01 on May 03,2020
+# vcom -reportprogress 300 -93 -work work C:/Users/PC de David/Documents/Laboratorios/Lógica/Vhdl/TestUnitAlu8bits/AND5_1.vhd 
+# -- Loading package STANDARD
+# init_dbinfo() DATABASE ERROR: (sqlite3_open C:/Users/PC de David/Documents/Laboratorios/Lógica/Vhdl/TestUnitAlu8bits/simulation/modelsim/rtl_work/_lib.qdb): unable to open database file
+# mtilibWrite(): Unexpected null object encountered
+# ** Fatal: (vcom-9) Problem while writing token file "C:/Users/PC de David/Documents/Laboratorios/Lógica/Vhdl/TestUnitAlu8bits/simulation/modelsim/rtl_work/_temp/vcomswv9yh".
+# 
+# El sistema no puede encontrar la ruta especificada. (GetLastError() = 3)
+# ** Error: C:/Users/PC de David/Documents/Laboratorios/Lógica/Vhdl/TestUnitAlu8bits/AND5_1.vhd(1): VHDL Compiler exiting
+# End time: 18:21:01 on May 03,2020, Elapsed time: 0:00:00
+# Errors: 2, Warnings: 0
+# ** Error: C:/altera/14.1/modelsim_ase/win32aloem/vcom failed.
+# Error in macro ./TestUnitAlu8bits_run_msim_rtl_vhdl.do line 8
+# C:/altera/14.1/modelsim_ase/win32aloem/vcom failed.
+#     while executing
+# "vcom -93 -work work {C:/Users/PC de David/Documents/Laboratorios/Lógica/Vhdl/TestUnitAlu8bits/AND5_1.vhd}"

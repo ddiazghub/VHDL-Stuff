@@ -1,0 +1,90 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity TestUnitAlu8bits is port(
+	clk,rst	:	in std_logic;
+	R	:	out std_logic_vector(3 downto 0)
+);
+end entity;
+
+architecture rtl of TestUnitAlu8bits is
+type State_type is (A, B, C, D, E, F);  -- Define the states
+	signal State : State_Type;    -- Create a signal that uses 
+							      -- the different states
+
+-- list components
+-- Aqui va su componente Alu8bits
+component ALU2_8 is port(
+	A,B   :   IN std_logic_vector(7 downto 0);
+	F     :   IN std_logic_vector(2 downto 0);
+	OVERFLOW,BMA    :   OUT std_logic;
+	R     :   OUT std_logic_vector(7 downto 0)
+);
+
+end component;
+-- Signals
+	signal 	A_test,B_test,R_test :	std_logic_vector(7 downto 0);
+	signal 	sel_test: std_logic_vector(2 downto 0);
+	signal 	OV_test,Ma_test: std_logic;
+begin
+	process(clk,rst)
+	begin
+		if (rst ='1') then
+		state <= A;
+		elsif rising_edge(clk) then	
+			--Asignen en cada estado pruebas difentes
+			case state is
+				when A =>
+					--Ejemplo (No olviden llenar los demas estados de prueba)
+					State <= B;
+					
+					A_test <=x"10" ;-- 16 en Decimal
+					B_test <=x"0A" ;-- 10 en Decimal
+					sel_test <="010" ;-- 010 en binario corresponde a Suma
+					
+				when B =>
+					State <= C;
+					
+					A_test <=x"10" ;-- 16 en Decimal
+					B_test <=x"0A" ;-- 10 en Decimal
+					sel_test <="010" ;-- 010 en binario corresponde a Suma
+					
+				when C =>
+					State <= D;
+					
+					A_test <=x"10" ;-- 16 en Decimal
+					B_test <=x"0A" ;-- 10 en Decimal
+					sel_test <="010" ;-- 010 en binario corresponde a Suma
+					
+				when D =>
+					State <= E;
+					
+					A_test <=x"10" ;-- 16 en Decimal
+					B_test <=x"0A" ;-- 10 en Decimal
+					sel_test <="010" ;-- 010 en binario corresponde a Suma
+					
+				when E =>
+					State <= F;
+					
+					A_test <=x"10" ;-- 16 en Decimal
+					B_test <=x"0A" ;-- 10 en Decimal
+					sel_test <="010" ;-- 010 en binario corresponde a Suma
+					
+				when F =>
+					State <= A;
+					
+					A_test <=x"10" ;-- 16 en Decimal
+					B_test <=x"0A" ;-- 10 en Decimal
+					sel_test <="010" ;-- 010 en binario corresponde a Suma
+					
+				when others =>
+					State <= A;
+			end case;
+		end if;
+	end process;
+
+
+-- Aqui va su unidad
+U: Alu8bits port map(A_test,B_test,sel_test,R_test,OV_test,Ma_test);
+
+end rtl;

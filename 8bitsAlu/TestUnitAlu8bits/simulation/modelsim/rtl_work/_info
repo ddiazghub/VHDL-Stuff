@@ -1,0 +1,1102 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/simulation/modelsim
+Ealu2_1
+Z1 w1586298242
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_1.vhd
+Z5 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_1.vhd
+l0
+L4
+VbhYWYMTb20NJzk0gBT7Ad3
+!s100 6NbM9zSR[kNK7B>S>27RZ0
+Z6 OV;C;10.3c;59
+31
+Z7 !s110 1588548216
+!i10b 1
+Z8 !s108 1588548216.589000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_1.vhd|
+Z10 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_1.vhd|
+!i113 1
+Z11 o-93 -work work
+Z12 tExplicit 1
+Aarq
+R2
+R3
+DEx4 work 6 alu2_1 0 22 bhYWYMTb20NJzk0gBT7Ad3
+l49
+L10
+VFZjCRJ@AG^nhn41JK:2OE0
+!s100 ROBz:0<WL?V55NPJh<Vm@1
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ealu2_8
+Z13 w1587861886
+R2
+R3
+R0
+Z14 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_8.vhd
+Z15 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_8.vhd
+l0
+L4
+Vn7YdCER5nBV=927TfhdMG2
+!s100 S_fXE09H;B0IlzHVel<E90
+R6
+31
+Z16 !s110 1588548215
+!i10b 1
+Z17 !s108 1588548215.643000
+Z18 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_8.vhd|
+Z19 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/ALU2_8.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 alu2_8 0 22 n7YdCER5nBV=927TfhdMG2
+l176
+L12
+VAz8Fia7LQ3?@gQzcBf7NA2
+!s100 RmDBPLj8;H>V<clzEV[=f0
+R6
+31
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Eand2_1
+Z20 w1583796856
+R2
+R3
+R0
+Z21 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND2_1.vhd
+Z22 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND2_1.vhd
+l0
+L4
+VhB5nd6kWCzG6o_20:41120
+!s100 T9KYhJS>jlgcIm_OmKSRe3
+R6
+31
+Z23 !s110 1588548214
+!i10b 1
+Z24 !s108 1588548214.750000
+Z25 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND2_1.vhd|
+Z26 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 and2_1 0 22 hB5nd6kWCzG6o_20:41120
+l11
+L10
+VfX<lITcZ>59gV>Wf[GQP32
+!s100 cfWLC@oNY=;Q:1`2FcYBC2
+R6
+31
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Eand3_1
+Z27 w1586150589
+R2
+R3
+R0
+Z28 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND3_1.vhd
+Z29 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND3_1.vhd
+l0
+L4
+VEUIAI]^LaG[?]Ke>]W@fz2
+!s100 Bma5E3o:_e>JeQJ9OG`<32
+R6
+31
+Z30 !s110 1588548213
+!i10b 1
+Z31 !s108 1588548213.841000
+Z32 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND3_1.vhd|
+Z33 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND3_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 and3_1 0 22 EUIAI]^LaG[?]Ke>]W@fz2
+l11
+L10
+VSo78P9CDN_i1JzLh[Ubjm3
+!s100 UmamQfR?_LhMHiQ]]U1Zn1
+R6
+31
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R11
+R12
+Eand5_1
+Z34 w1586192168
+R2
+R3
+R0
+Z35 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND5_1.vhd
+Z36 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND5_1.vhd
+l0
+L4
+V72SaP72iYcC?CW=[3SKSa0
+!s100 niNTXGcIedoUn;U@>BcX]2
+R6
+31
+Z37 !s110 1588548191
+!i10b 1
+Z38 !s108 1588548191.019000
+Z39 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND5_1.vhd|
+Z40 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/AND5_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 and5_1 0 22 72SaP72iYcC?CW=[3SKSa0
+l11
+L10
+VB<I4aC]9V5LWW=3An?<cm0
+!s100 z]XR?38;2P2LYf7FC?F6j0
+R6
+31
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Ecod4_1
+Z41 w1586152940
+R2
+R3
+R0
+Z42 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COD4_1.vhd
+Z43 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COD4_1.vhd
+l0
+L4
+VA5GXj5?2K@mo`jA;zH5FL0
+!s100 f4Nk0mkOC5X5cf4aRUX=Y3
+R6
+31
+Z44 !s110 1588548212
+!i10b 1
+Z45 !s108 1588548212.878000
+Z46 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COD4_1.vhd|
+Z47 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COD4_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 cod4_1 0 22 A5GXj5?2K@mo`jA;zH5FL0
+l25
+L10
+V@ZFa5A0]TSKbKnKKfOiHX2
+!s100 bzC]76W5X6glD7dh1gHkV1
+R6
+31
+R44
+!i10b 1
+R45
+R46
+R47
+!i113 1
+R11
+R12
+Ecomp2_1
+Z48 w1586124220
+R2
+R3
+R0
+Z49 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_1.vhd
+Z50 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_1.vhd
+l0
+L4
+V?B<@L9Ck3LWc1d00@bAG52
+!s100 JknceOaQEIQDK>>A9i<a:1
+R6
+31
+Z51 !s110 1588548211
+!i10b 1
+Z52 !s108 1588548211.775000
+Z53 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_1.vhd|
+Z54 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 7 comp2_1 0 22 ?B<@L9Ck3LWc1d00@bAG52
+l31
+L10
+VmQ>IGO<W@^Dc1k5IS=GiA2
+!s100 ]02DjUGMDeOnR1n2mKI_W0
+R6
+31
+R51
+!i10b 1
+R52
+R53
+R54
+!i113 1
+R11
+R12
+Ecomp2_2
+Z55 w1586126780
+R2
+R3
+R0
+Z56 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_2.vhd
+Z57 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_2.vhd
+l0
+L4
+Vl=kg<MCK6G9Q6EA8@W:c_1
+!s100 P6ZTVD8Dm]1?89HD9zJkk1
+R6
+31
+Z58 !s110 1588548210
+!i10b 1
+Z59 !s108 1588548210.807000
+Z60 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_2.vhd|
+Z61 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_2.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 7 comp2_2 0 22 l=kg<MCK6G9Q6EA8@W:c_1
+l43
+L10
+VW8@iH7ljh?BJAlRh3nP>_0
+!s100 2V]ZO2RiY1aDXO^JXmbE93
+R6
+31
+R58
+!i10b 1
+R59
+R60
+R61
+!i113 1
+R11
+R12
+Ecomp2_3
+Z62 w1586127623
+R2
+R3
+R0
+Z63 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_3.vhd
+Z64 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_3.vhd
+l0
+L4
+V?5QERWEcRa0AK4R44kU=g2
+!s100 7`QDa5lUc5H]_Y[>N@1hi1
+R6
+31
+Z65 !s110 1588548209
+!i10b 1
+Z66 !s108 1588548209.811000
+Z67 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_3.vhd|
+Z68 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_3.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 7 comp2_3 0 22 ?5QERWEcRa0AK4R44kU=g2
+l49
+L10
+VI5ORJX2>j`AAO@DeDj9DG2
+!s100 lh>O<cEec3:YbRhck@8Mz2
+R6
+31
+R65
+!i10b 1
+R66
+R67
+R68
+!i113 1
+R11
+R12
+Ecomp2_4
+Z69 w1586128198
+R2
+R3
+R0
+Z70 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_4.vhd
+Z71 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_4.vhd
+l0
+L4
+Vae8H=8ASNP>kjaP]P0LNn1
+!s100 ;AoIzJ:1GHJFkdb@:RPdY0
+R6
+31
+Z72 !s110 1588548208
+!i10b 1
+Z73 !s108 1588548208.707000
+Z74 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_4.vhd|
+Z75 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_4.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 7 comp2_4 0 22 ae8H=8ASNP>kjaP]P0LNn1
+l55
+L10
+V[fj;CJB1SUjjUz_Ugd[AX2
+!s100 FQ5ADDR@QoP_]hdimcViU0
+R6
+31
+R72
+!i10b 1
+R73
+R74
+R75
+!i113 1
+R11
+R12
+Ecomp2_8
+Z76 w1586287822
+R2
+R3
+R0
+Z77 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8.vhd
+Z78 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8.vhd
+l0
+L4
+VB<eK;L5a^J5Gc4>29[]QK1
+!s100 dck=TcBUnSX^g;YA[b>O30
+R6
+31
+Z79 !s110 1588548207
+!i10b 1
+Z80 !s108 1588548207.644000
+Z81 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8.vhd|
+Z82 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 7 comp2_8 0 22 B<eK;L5a^J5Gc4>29[]QK1
+l61
+L10
+VhP^g@icCmMb9c8Y9g6oa<2
+!s100 ZN8Z:MmF[Lj:fh462_iZA3
+R6
+31
+R79
+!i10b 1
+R80
+R81
+R82
+!i113 1
+R11
+R12
+Ecomp2_8_complemento2
+Z83 w1586383915
+R2
+R3
+R0
+Z84 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8_COMPLEMENTO2.vhd
+Z85 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8_COMPLEMENTO2.vhd
+l0
+L4
+VV1RQ9]:bIXWQ;LFQ^34o`3
+!s100 3<P3L]E?HZUb3z03daE6k1
+R6
+31
+Z86 !s110 1588548206
+!i10b 1
+Z87 !s108 1588548206.629000
+Z88 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8_COMPLEMENTO2.vhd|
+Z89 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/COMP2_8_COMPLEMENTO2.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 20 comp2_8_complemento2 0 22 V1RQ9]:bIXWQ;LFQ^34o`3
+l79
+L10
+V;Uo?6eU]EWzKfdA25Q4Y23
+!s100 XTTAg_OeNz1SoKd?T^fW:2
+R6
+31
+R86
+!i10b 1
+R87
+R88
+R89
+!i113 1
+R11
+R12
+Edetector_overflow
+Z90 w1586452565
+R2
+R3
+R0
+Z91 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/DETECTOR_OVERFLOW.vhd
+Z92 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/DETECTOR_OVERFLOW.vhd
+l0
+L4
+VOnI_efIGf^C[9i=VVmdX_2
+!s100 ^feOV;UUEDnEJAIOS>CFo3
+R6
+31
+Z93 !s110 1588548205
+!i10b 1
+Z94 !s108 1588548205.609000
+Z95 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/DETECTOR_OVERFLOW.vhd|
+Z96 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/DETECTOR_OVERFLOW.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 17 detector_overflow 0 22 OnI_efIGf^C[9i=VVmdX_2
+l56
+L11
+Vkd3DQ`f[o>2z35eI^1:Q?3
+!s100 YFoW;J16aj0=DK36]TG@l0
+R6
+31
+R93
+!i10b 1
+R94
+R95
+R96
+!i113 1
+R11
+R12
+Emux2_1
+Z97 w1586122108
+R2
+R3
+R0
+Z98 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_1.vhd
+Z99 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_1.vhd
+l0
+L4
+VM3kQ1oV?P7cX95mB9iUzl0
+!s100 hI^E?znf3;XcCbGf0I@cB1
+R6
+31
+Z100 !s110 1588548204
+!i10b 1
+Z101 !s108 1588548204.605000
+Z102 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_1.vhd|
+Z103 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 mux2_1 0 22 M3kQ1oV?P7cX95mB9iUzl0
+l31
+L10
+VWZW];O_JakLOaKk^GKOC>1
+!s100 a@8SQVF3mlECODcOkGM9l2
+R6
+31
+R100
+!i10b 1
+R101
+R102
+R103
+!i113 1
+R11
+R12
+Emux2_8
+Z104 w1586301278
+R2
+R3
+R0
+Z105 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_8.vhd
+Z106 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_8.vhd
+l0
+L4
+V8dm0l1HAgliCSLkF7jEGi3
+!s100 SIbCR2iifMQK1J6BdX9gE1
+R6
+31
+Z107 !s110 1588548203
+!i10b 1
+Z108 !s108 1588548203.764000
+Z109 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_8.vhd|
+Z110 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX2_8.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 mux2_8 0 22 8dm0l1HAgliCSLkF7jEGi3
+l37
+L11
+VCXGEZTkg_FmV63PkeGLnj3
+!s100 V^j9_Z9`HcRES>?;>MH8e1
+R6
+31
+R107
+!i10b 1
+R108
+R109
+R110
+!i113 1
+R11
+R12
+Emux4_1
+Z111 w1586122313
+R2
+R3
+R0
+Z112 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_1.vhd
+Z113 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_1.vhd
+l0
+L4
+VU4YeW2ciKN=D3^VhJmn]13
+!s100 `BboW22YXWbOKL=LMj9lg0
+R6
+31
+Z114 !s110 1588548202
+!i10b 1
+Z115 !s108 1588548202.933000
+Z116 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_1.vhd|
+Z117 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 mux4_1 0 22 U4YeW2ciKN=D3^VhJmn]13
+l37
+L10
+V_3mnSFDRLnDB64lkXP6L13
+!s100 JaGc>meXkD=1IA@H^]7l52
+R6
+31
+R114
+!i10b 1
+R115
+R116
+R117
+!i113 1
+R11
+R12
+Emux4_8
+Z118 w1586302818
+R2
+R3
+R0
+Z119 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_8.vhd
+Z120 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_8.vhd
+l0
+L4
+V__ZQY_X:@Jf7TTJ@c3M<;0
+!s100 Eg]48A1n9LNf1M_S0V7<a1
+R6
+31
+R114
+!i10b 1
+Z121 !s108 1588548202.002000
+Z122 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_8.vhd|
+Z123 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX4_8.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 mux4_8 0 22 __ZQY_X:@Jf7TTJ@c3M<;0
+l45
+L11
+VgZ2An;W@[9B[a^AD;<n:c1
+!s100 cQX7dRRIMPlRk[O9lWmAe3
+R6
+31
+R114
+!i10b 1
+R121
+R122
+R123
+!i113 1
+R11
+R12
+Emux8_1
+Z124 w1586122811
+R2
+R3
+R0
+Z125 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX8_1.vhd
+Z126 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX8_1.vhd
+l0
+L4
+ViJfVl:PXS>A9e^^l01^bZ2
+!s100 kY9FAbUQiWIgfFzb@;?FZ3
+R6
+31
+Z127 !s110 1588548201
+!i10b 1
+Z128 !s108 1588548201.046000
+Z129 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX8_1.vhd|
+Z130 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/MUX8_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 mux8_1 0 22 iJfVl:PXS>A9e^^l01^bZ2
+l43
+L10
+V0OIRXR6:lGVPn6L0dfML?2
+!s100 OFlTKBJ]1EMZ_h[2]?CiE3
+R6
+31
+R127
+!i10b 1
+R128
+R129
+R130
+!i113 1
+R11
+R12
+Enor3_1
+Z131 w1586061281
+R2
+R3
+R0
+Z132 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOR3_1.vhd
+Z133 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOR3_1.vhd
+l0
+L4
+V[G[8j8JO@jbPMk>aWL_KR1
+!s100 f7`gOFl7AB@cdQCRSOM?C3
+R6
+31
+Z134 !s110 1588548200
+!i10b 1
+Z135 !s108 1588548200.185000
+Z136 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOR3_1.vhd|
+Z137 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOR3_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 nor3_1 0 22 [G[8j8JO@jbPMk>aWL_KR1
+l11
+L10
+V5[P<3Vb4h]`ZoFXX@2>dm2
+!s100 UkaFaoLVg3f[eceTm?NY_0
+R6
+31
+R134
+!i10b 1
+R135
+R136
+R137
+!i113 1
+R11
+R12
+Enot1_1
+Z138 w1586059707
+R2
+R3
+R0
+Z139 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOT1_1.vhd
+Z140 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOT1_1.vhd
+l0
+L4
+VQY^3eQ`NbhzEGVYZOO;L@0
+!s100 eUR0MElZ;B3??o6_D_M4?0
+R6
+31
+Z141 !s110 1588548199
+!i10b 1
+Z142 !s108 1588548199.312000
+Z143 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOT1_1.vhd|
+Z144 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/NOT1_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 not1_1 0 22 QY^3eQ`NbhzEGVYZOO;L@0
+l11
+L10
+Vjm4MjSUF7kz`EIbHF[TzE2
+!s100 8h567z>F6NgCG5PGVK08?0
+R6
+31
+R141
+!i10b 1
+R142
+R143
+R144
+!i113 1
+R11
+R12
+Eor2_1
+Z145 w1581981342
+R2
+R3
+R0
+Z146 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR2_1.vhd
+Z147 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR2_1.vhd
+l0
+L4
+V4Yj_R2j`8fjm3PEZEn>H>3
+!s100 _2XzS_^I0;h361TVUbV1J0
+R6
+31
+Z148 !s110 1588548198
+!i10b 1
+Z149 !s108 1588548198.453000
+Z150 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR2_1.vhd|
+Z151 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 5 or2_1 0 22 4Yj_R2j`8fjm3PEZEn>H>3
+l11
+L10
+V:8MT[CVgEML0ifoHc@VGO2
+!s100 =7oLjL3@z;<Q;]c[VbhSz3
+R6
+31
+R148
+!i10b 1
+R149
+R150
+R151
+!i113 1
+R11
+R12
+Eor3_1
+Z152 w1586108556
+R2
+R3
+R0
+Z153 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR3_1.vhd
+Z154 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR3_1.vhd
+l0
+L4
+V1[Dl29?:4E_1kd]FG0:[V2
+!s100 4kH3FLl9]:O?Dhc8LZJZf2
+R6
+31
+Z155 !s110 1588548197
+!i10b 1
+Z156 !s108 1588548197.550000
+Z157 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR3_1.vhd|
+Z158 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/OR3_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 5 or3_1 0 22 1[Dl29?:4E_1kd]FG0:[V2
+l11
+L10
+V=eT[J;_1F^[dSVjDU[Qb=0
+!s100 N[zcWRBLUKABiiXUldA@J2
+R6
+31
+R155
+!i10b 1
+R156
+R157
+R158
+!i113 1
+R11
+R12
+Esum2_1
+Z159 w1586109261
+R2
+R3
+R0
+Z160 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUM2_1.vhd
+Z161 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUM2_1.vhd
+l0
+L4
+VK^G4kZ:7nA52o@>ei3R8A2
+!s100 YoNFLdIKVUnbel:eL6^Wa3
+R6
+31
+Z162 !s110 1588548196
+!i10b 1
+Z163 !s108 1588548196.621000
+Z164 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUM2_1.vhd|
+Z165 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUM2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 sum2_1 0 22 K^G4kZ:7nA52o@>ei3R8A2
+l31
+L10
+V2Hmc77W2VO[B2XiBP@1<U2
+!s100 [`RElz5g0la_eVM_m<BgW1
+R6
+31
+R162
+!i10b 1
+R163
+R164
+R165
+!i113 1
+R11
+R12
+Esumres2_1
+Z166 w1586286136
+R2
+R3
+R0
+Z167 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_1.vhd
+Z168 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_1.vhd
+l0
+L4
+VUVDb5lSL<nKO0@<la]eMX2
+!s100 8fjIN;4jI3CMkF`N<fj;g0
+R6
+31
+Z169 !s110 1588548195
+!i10b 1
+Z170 !s108 1588548195.717000
+Z171 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_1.vhd|
+Z172 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 9 sumres2_1 0 22 UVDb5lSL<nKO0@<la]eMX2
+l55
+L10
+Vh5`XI^k:66gP8KD7>?CUB3
+!s100 [2;d7QFXX>c^e0`0WOgAz2
+R6
+31
+R169
+!i10b 1
+R170
+R171
+R172
+!i113 1
+R11
+R12
+Esumres2_8
+Z173 w1586287236
+R2
+R3
+R0
+Z174 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_8.vhd
+Z175 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_8.vhd
+l0
+L4
+VIUbVRMORPUO^nNjV8HYI60
+!s100 2K64dJi:ZJ:AQ?Yh_[]jW1
+R6
+31
+Z176 !s110 1588548194
+!i10b 1
+Z177 !s108 1588548194.755000
+Z178 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_8.vhd|
+Z179 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/SUMRES2_8.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 9 sumres2_8 0 22 IUbVRMORPUO^nNjV8HYI60
+l61
+L10
+V6WdiOHmC]F`QX7@]Uo`IR1
+!s100 Gf>Ma3:DEd`WV:klKT7lZ0
+R6
+31
+R176
+!i10b 1
+R177
+R178
+R179
+!i113 1
+R11
+R12
+Etestunitalu8bits
+Z180 w1587835068
+R2
+R3
+R0
+Z181 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/TestUnitAlu8bits.vhd
+Z182 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/TestUnitAlu8bits.vhd
+l0
+L4
+V_OZk<5Ion7dLho:hc=0DN0
+!s100 RGHlC>OM4SQn[c6Clc_bn0
+R6
+31
+Z183 !s110 1588548217
+!i10b 1
+Z184 !s108 1588548217.468000
+Z185 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/TestUnitAlu8bits.vhd|
+Z186 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/TestUnitAlu8bits.vhd|
+!i113 1
+R11
+R12
+Artl
+R2
+R3
+DEx4 work 16 testunitalu8bits 0 22 _OZk<5Ion7dLho:hc=0DN0
+l188
+L11
+VjQC0ZQc;Kde4H[]>I:_Z90
+!s100 PiJ>EDS<7BU8[IB1>26>_0
+R6
+31
+R183
+!i10b 1
+R184
+R185
+R186
+!i113 1
+R11
+R12
+Exnor2_1
+Z187 w1586060558
+R2
+R3
+R0
+Z188 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XNOR2_1.vhd
+Z189 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XNOR2_1.vhd
+l0
+L4
+V6@fAkRP[]2e6cgCnz;m]E1
+!s100 Jc3?hDaLbg=:MYRPG``Km0
+R6
+31
+Z190 !s110 1588548193
+!i10b 1
+Z191 !s108 1588548193.900000
+Z192 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XNOR2_1.vhd|
+Z193 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XNOR2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 7 xnor2_1 0 22 6@fAkRP[]2e6cgCnz;m]E1
+l11
+L10
+VlM<<MQB6?Vg=o@`EOmdW70
+!s100 CZfM;I[il1Oc_>LPz0GLc1
+R6
+31
+R190
+!i10b 1
+R191
+R192
+R193
+!i113 1
+R11
+R12
+Exor2_1
+Z194 w1583796975
+R2
+R3
+R0
+Z195 8C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XOR2_1.vhd
+Z196 FC:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XOR2_1.vhd
+l0
+L4
+VCb34C2g5L?e78o>:>XW?i0
+!s100 :?lQ9U<FACg6ha79]TJUW2
+R6
+31
+Z197 !s110 1588548192
+!i10b 1
+Z198 !s108 1588548192.608000
+Z199 !s90 -reportprogress|300|-93|-work|work|C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XOR2_1.vhd|
+Z200 !s107 C:/Users/PC de David/Documents/Vhdl/Componentes/Componentes de mayor complejidad/TestUnitAlu8bits/XOR2_1.vhd|
+!i113 1
+R11
+R12
+Aarq
+R2
+R3
+DEx4 work 6 xor2_1 0 22 Cb34C2g5L?e78o>:>XW?i0
+l11
+L10
+VAo:kYXFLhL^N9G^K]KS9l3
+!s100 _8gic75]kHF;eJ4leTZE>1
+R6
+31
+R197
+!i10b 1
+R198
+R199
+R200
+!i113 1
+R11
+R12
